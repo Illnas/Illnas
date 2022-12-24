@@ -1,4 +1,4 @@
-<div style="background-color: rgb(50, 50, 50); height: 100vh">
+<div style="background-color: #0d1117; height: 100vh">
 
 # Hey. I am Dario Žalac (also known as "Nadatari") and welcome to my Github Profile!
 
