@@ -1,3 +1,5 @@
+`#0d1117`
+
 # Hey. I am Dario Žalac (also known as "Nadatari") and welcome to my Github Profile!
 
 
