@@ -1,6 +1,5 @@
-# Welcome to my Github Profile
+# Hey. I am Dario Žalac (also known as "Nadatari") and welcome to my Github Profile!
 
-Hey. I am Dario Žalac (also known as "Nadatari").
 
 I am a guy who stumbled upon Web Design as a student that just had to quit from his university life 
 cause my family had financial troubles. Years later, and as 27-year-old, you will notice one thing; I am not giving
