@@ -1,4 +1,4 @@
-`#0d1117`
+<div style="background-color: rgb(50, 50, 50); height: 100vh">
 
 # Hey. I am Dario Žalac (also known as "Nadatari") and welcome to my Github Profile!
 
@@ -19,3 +19,4 @@ advices.
 
 Btw, Illnas is one of those nicknames almost everyone made when Legion (WoW Expansion) came, and we all
 wanted to be baddas Demon Hunters. I do regret it tho!
+</div>
