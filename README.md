@@ -1,8 +1,9 @@
-<div style="background-color: #0d1117; height: 100vh">
-
-# Hey. I am Dario Žalac (also known as "Nadatari") and welcome to my Github Profile!
 
 
+# Hey. I am Dario Žalac and welcome to my Github Profile!
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/[ICON SLUG]" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/[ICON SLUG]/[COLOR]" />
 I am a guy who stumbled upon Web Design as a student that just had to quit from his university life 
 cause my family had financial troubles. Years later, and as 27-year-old, you will notice one thing; I am not giving
 up on Web Design! I might have to take pause and focus on something else (jobs, other courses, etc, etc) but
