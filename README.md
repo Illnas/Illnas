@@ -1,6 +1,6 @@
 
 
-# Hey. I am Dario Žalac and welcome to my Github Profile!
+# Hey! I am Dario Žalac and welcome to my Github Profile!
 
 
 I am a guy who stumbled upon Web Design as a student that just had to quit from his university life 
