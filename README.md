@@ -2,13 +2,6 @@
 
 # Hey. I am Dario Žalac and welcome to my Github Profile!
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/gray" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf9" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" />
 
 I am a guy who stumbled upon Web Design as a student that just had to quit from his university life 
 cause my family had financial troubles. Years later, and as 27-year-old, you will notice one thing; I am not giving
