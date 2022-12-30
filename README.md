@@ -7,8 +7,9 @@ I am a guy who started programming as hobby during his student days. And after a
 I mess up, what did I mess up, how did I mess up... But don't worry! I always find solution! 
 
 Anyway, you are probably wondering what I do, so I will give you a small list of things I code with: </br>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/CSS-0F4FFF?&style=flat-square&logo=css3&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS-0F4FFF?&style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 
