@@ -6,7 +6,9 @@
 I am a guy who started programming as hobby during his student days. And after all those struggles, you will notice that years later, I did not give up on programming! Sometimes I take break, but I always come back. At this moment, I am probably slamming my head on table wondering where did 
 I mess up, what did I mess up, how did I mess up... But don't worry! I always find solution! 
 
-Anyway, you are probably wondering what I do, so I will give you a small list of things I code with: </br>
+
+Anyway, you are probably wondering what I do, so I will give you a small list of things I code with: 
+
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?&style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
