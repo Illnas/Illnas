@@ -3,11 +3,12 @@
 # Hey! I am Dario Žalac and welcome to my Github Profile!
 
 
-I am a guy who started programming as hobby during his student days. And after all those struggles, you will notice that years later, I did not give up on programming! Sometimes I take break, but I always come back. At this moment, I am probably slamming my head on table wondering where did 
+I am a guy who took programming as hobby during his student days. And after all those struggles, you will notice that years later, I did not give up on programming! Sometimes I do take a break, but I always come back. And, at this moment, I am probably slamming my head on table wondering where did 
 I mess up, what did I mess up, how did I mess up... But don't worry! I always find solution! 
 
+Nowadays, I am working on Frontend Projects with a goal of getting hired as a Frontend Developer. As such, I am always going through tutorials, messing around on projects, and working on interview assignment projects.
 
-Anyway, you are probably wondering what I do, so I will give you a small list of things I code with: </br></br>
+Anyway, you are probably wondering what I have learned, so I will give you a small list to peruse: </br></br>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?&style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
@@ -29,6 +30,4 @@ Anyway, you are probably wondering what I do, so I will give you a small list of
 </br>
 
 
-Btw, Illnas is one of those nicknames almost everyone made when Legion (WoW Expansion) came, and we all
-wanted to be baddas Demon Hunters. I do regret it tho!
-</div>
+
