@@ -29,5 +29,6 @@ Anyway, you are probably wondering what I have learned, so I will give you a sma
   <img alt="Expressjs" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
 </br>
 
-
+Here are some stats:
+  [![Visits Badge](https://badges.pufler.dev/visits/Illnas/Illnas)](https://badges.pufler.dev)
 
