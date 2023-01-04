@@ -28,7 +28,8 @@ Anyway, you are probably wondering what I have learned, so I will give you a sma
   <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
   <img alt="Expressjs" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
 </br>
-
-Here are some stats:
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Illnas&show_icons=true&theme=transparent)
+</hr>
+</br>
+Here are some stats:</br>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Illnas)](https://git.io/streak-stats)
 
