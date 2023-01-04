@@ -30,5 +30,5 @@ Anyway, you are probably wondering what I have learned, so I will give you a sma
 </br>
 
 Here are some stats:
-  [![Visits Badge](https://badges.pufler.dev/visits/Illnas/Illnas)](https://badges.pufler.dev)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Illnas)](https://github.com/anuraghazra/github-readme-stats)
 
