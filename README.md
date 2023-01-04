@@ -27,11 +27,9 @@ Anyway, you are probably wondering what I have learned, so I will give you a sma
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
   <img alt="Expressjs" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-</br>
-</hr>
-</br>
+
 Here are some stats:
-</br>
+
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Illnas&theme=gruvbox& border=15FF3B&fire=45FF00"/></a>
 </div>
