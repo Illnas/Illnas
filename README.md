@@ -28,6 +28,7 @@ Anyway, you are probably wondering what I have learned, so I will give you a sma
   <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
   <img alt="Expressjs" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
 
+---
 Here are some stats:
 
 <div align="center">
