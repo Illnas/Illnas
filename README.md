@@ -31,5 +31,5 @@ Anyway, you are probably wondering what I have learned, so I will give you a sma
 </hr>
 </br>
 Here are some stats:</br>
- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
 
