@@ -30,5 +30,5 @@ Anyway, you are probably wondering what I have learned, so I will give you a sma
 </br>
 
 Here are some stats:
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nadatari&show_icons=true&theme=transparent)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Illnas&show_icons=true&theme=transparent)
 
