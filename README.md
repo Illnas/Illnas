@@ -1,6 +1,6 @@
 
 
-# Hey! I am Dario!
+# Hey, I am Dario!
 
 
 I am a guy who took programming as hobby during his student days. And after all those struggles, you will notice that years later, I did not give up on programming! Sometimes I do take a break, but I always come back. And, at this moment, I am probably slamming my head on table wondering where did 
