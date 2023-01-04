@@ -30,7 +30,7 @@ Anyway, you are probably wondering what I have learned, so I will give you a sma
 
 ---
 Here are some stats:
-<hr style="border:1px solid green">
+<hr style="border:2px solid blue">
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Illnas&theme=gruvbox& border=15FF3B&fire=45FF00"/></a>
 </div>
