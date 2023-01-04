@@ -32,7 +32,7 @@ Anyway, you are probably wondering what I have learned, so I will give you a sma
 </br>
 Here are some stats:
 </br>
-<div class="width: 100%; display: flex; justify-content: center; align-items:center">
+<div class="align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Illnas&theme=gruvbox& border=15FF3B&fire=45FF00"/></a>
 </div>
 
