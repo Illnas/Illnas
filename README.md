@@ -27,6 +27,7 @@ Anyway, you are probably wondering what I have learned, so I will give you a sma
 
 ---
 Here are some stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dario%20&theme=highcontrast&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Illnas&theme=gruvbox& border=15FF3B&fire=45FF00"/></a>
