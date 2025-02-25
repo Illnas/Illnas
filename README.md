@@ -3,10 +3,7 @@
 # Hey, I am Dario!
 
 
-I am a guy who took programming as hobby during his student days. And after all those struggles, you will notice that years later, I did not give up on programming! Sometimes I do take a break, but I always come back. And, at this moment, I am probably slamming my head on table wondering where did 
-I mess up, what did I mess up, how did I mess up... But don't worry! I always find solution! 
-
-Nowadays, I am working on Frontend Projects with a goal of getting hired as a Frontend Developer. As such, I am always going through tutorials, messing around on projects, and working on interview assignment projects.
+Waiting for new introduction!
 
 Anyway, you are probably wondering what I have learned, so I will give you a small list to peruse: </br></br>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
